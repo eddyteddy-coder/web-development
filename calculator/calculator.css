@@ -1,0 +1,40 @@
+.cal{
+  text-align:center;
+  margin:
+}
+table{
+  margin:auto;
+}
+input{
+  font-size:25px;
+  border:6px solid hotpink;
+  border-radius:10px;
+ margin-bottom: 10px;
+}
+button{
+  margin:3px;
+  font-size:23px;
+  background-color: hotpink;
+  font-family: monospace;
+  height:40px;
+  width:70px;
+  border-radius:50px;
+  border-color: hotpink;
+
+}
+button:hover{
+  color:blue;
+}
+.container{
+  display:inline-block;
+  background-color: #921fb9;
+  border:2px solid black;
+  padding:10px;
+  border-radius:20px;
+
+
+}
+body{
+  width:100%;
+  background-image:url("https://wallpapertag.com/wallpaper/full/4/9/1/147942-large-aesthetic-background-tumblr-1153x1920.jpg");
+}
