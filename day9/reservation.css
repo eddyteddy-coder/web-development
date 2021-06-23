@@ -1,0 +1,86 @@
+body{
+
+    margin:0%;
+
+    padding:0%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  #container{
+    margin:20px;
+    border:0.5px solid black;
+    height:610px;
+    width:615px;
+    display:flex;
+    flex-wrap: wrap;
+    box-shadow:7px 7px 5px rgb(54,51,51),-7px -7px 5px rgb(54,51,51);
+  }
+
+.box{
+
+  width:100px;
+  height:100px;
+background-image: url("https://designwarehouse.co.nz/wp-content/uploads/2018/11/studio-chair-cyprus-angle-1024x1024.jpg");
+background-size: cover;
+  border:1px solid white;
+  margin:0px;
+  padding:0px;
+  cursor:pointer;
+}
+.box:hover{
+  opacity:0.8;
+}
+.boxclicked{
+  border:1px solid black;
+}
+#top{
+margin-top: 20px;
+  font-weight: bold;
+  font-size:20px;
+  border-radius:25px;
+  height:70px;
+  background-color: hotpink;
+  box-shadow:0px 0px 4px whitesmoke;
+  border:none;
+  width:150px;
+}
+#top2{
+  margin-top: 20px;
+font-weight: bold;
+  font-size:20px;
+  border-radius:25px;
+  height:70px;
+  background-color: hotpink;
+  box-shadow:0px 0px 4px whitesmoke;
+  border:none;
+  width:150px;
+}
+#c{
+  margin-top: 20px;
+  margin-left: 50px;
+  font-weight: bold;
+  margin-right: 0px;
+  font-size:20px;
+  border-radius:25px;
+  height:70px;
+  background-color: white;
+  box-shadow:0px 0px 4px whitesmoke;
+  border:none;
+  width:150px;
+}
+#m{
+  margin-top: 20px;
+  margin-left: 50px;
+  font-weight: bold;
+  margin-right: 0px;
+  font-size:20px;
+  border-radius:25px;
+  height:70px;
+  background-color: white;
+  box-shadow:0px 0px 4px whitesmoke;
+  border:none;
+  width:150px;
+}
