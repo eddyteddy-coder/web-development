@@ -1,0 +1,38 @@
+.App {
+  
+  text-align: center;
+  
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+.container{
+  
+  width:660px;
+  height:660px;
+  display:flex;
+  flex-direction: column;
+  border:10px solid black;
+}
+
+
+
+
+.row {
+  margin:0px;
+  display: block;
+  height: 80px;
+  width: auto;
+}
+.App .box {
+  
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  margin:0;
+ 
+}
