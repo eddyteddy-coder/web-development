@@ -1,0 +1,9 @@
+.caloriecard{
+  
+    background-color: rgb(158, 241, 33);
+    border-radius: 5px;
+    margin-bottom: 8px;
+    padding:10px;
+    margin-right: 20px;
+    box-shadow:0 2px 2px 3px rgba(68, 71, 62, 0.7);
+  }
